@@ -21,6 +21,13 @@ You choose a folder to monitor, select file extensions, and assign them to a fol
 
 ---
 
+## Download link 
+
+https://hussien04py.freedev.app/project.php?id=8
+
+
+---
+
 ## ✨ Features
 
 * 📁 Choose a folder to organize
