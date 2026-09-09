@@ -18,11 +18,6 @@ You choose a folder to monitor, select file extensions, and assign them to a fol
 
 ![Sorty System Tray](screenshots/tray.png)
 
-> Add your screenshots to the repository using:
->
-> `screenshots/main.png`
->
-> `screenshots/tray.png`
 
 ---
 
